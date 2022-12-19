@@ -22,6 +22,7 @@ public class Main {
 	
 	public void feature() {
 		System.out.println("MASTERRRR!");
+		System.out.println("FEAUTRE!");
 	}
 
 }
