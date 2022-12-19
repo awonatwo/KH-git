@@ -12,11 +12,18 @@ package com.sh.git;
  * 
  */
 public class Main {
+public void master () {		System.out.println("origin/master에서 작성함!");}
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world");
 		System.out.println("Hello git");
+	}
+	
+	public void feature() {
+		System.out.println("MASTERRRR!");
+		System.out.println("FEAUTRE!");
 	}
 
 }
