@@ -13,6 +13,10 @@ package com.sh.git;
  */
 public class Main {
 
+	public void master() {
+
+	}
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world");
