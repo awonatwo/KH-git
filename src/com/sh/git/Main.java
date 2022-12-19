@@ -13,9 +13,6 @@ package com.sh.git;
  */
 public class Main {
 
-	public void master() {
-		System.out.println("master!!!");
-	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -24,7 +21,7 @@ public class Main {
 	}
 	
 	public void feature() {
-		System.out.println("feeeature!");
+		System.out.println("MASTERRRR!");
 	}
 
 }
